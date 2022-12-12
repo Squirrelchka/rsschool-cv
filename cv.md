@@ -18,11 +18,10 @@ Git/GitHub
 Russian  
 English A2  
 
-## __Code Examples:__
- ```javascript  
-   function multiply (a, b) {
-    return a * b
-  }
-  ```  
+## __Code Examples:__  
+`function multiply (a, b) {  
+    return a * b  
+}  
+`  
 ## __Education:__  
 higher economic education 
